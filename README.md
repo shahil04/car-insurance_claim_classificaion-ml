@@ -1,14 +1,7 @@
-Got it ✅
-You want a **README.md** for a **Car Insurance Claim Fraud Detection ML Project** using your dataset, with a **title, demo link, screenshots placeholder, Python 3.13 note, and steps to run**.
 
-Here’s your **ready-to-use README**:
-
----
-
-```markdown
 # 🚗 Car Insurance Claim Fraud Detection (ML Project)
 
-![Project Screenshot](screenshots/project_ui.png)
+![Project Screenshot](https://github.com/shahil04/car-insurance_claim_classificaion-ml/blob/master/main_page.png)
 
 ## 📌 Overview
 This project predicts whether a **car insurance claim** is **fraudulent** or **genuine** using machine learning.  
@@ -62,7 +55,7 @@ car-insurance-fraud/
 ---
 
 ## 🖥️ Demo
-**Live Demo Link:** [https://your-demo-link.com](https://your-demo-link.com)  
+**Live Demo Link:** [https://your-demo-link.com](https://car-insurance-claim.streamlit.app/)  
 *(Replace with your deployed Streamlit/Flask app link)*
 
 ---
