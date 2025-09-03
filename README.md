@@ -48,11 +48,6 @@ car-insurance-fraud/
 │-- screenshots/
 │   ├── project\_ui.png
 │
-│-- src/
-│   ├── data\_preprocessing.py
-│   ├── train\_model.py
-│   ├── predict.py
-│
 │-- app.py
 │-- requirements.txt
 │-- README.md
